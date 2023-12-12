@@ -4,6 +4,7 @@ The Science Fiction Story Generator is an innovative application designed to ign
 ## Steps
 <ol>
   <li> Download the Science Fiction model from the given google drive link </li>
+  https://drive.google.com/drive/folders/1fL5Pp6U5KyHApGde_xsRmZ7WpG2IlhQC?usp=drive_link
   <li> Download the app.py from the given GitHub repository link </li>
   <li> Run the command  in the terminal where you python file and the model is saved: </li>
                     uvicorn app:app --reload
