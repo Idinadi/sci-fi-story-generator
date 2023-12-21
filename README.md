@@ -9,7 +9,7 @@ The Science Fiction Story Generator is an innovative application designed to ign
   <li> Run the command  in the terminal where you python file and the model is saved: </li>
                     uvicorn app:app --reload
   <li> Got to : </li>
-                    http://127.0.0.1:8000/docs
+                    http://127.0.0.1:8000/api/v2/apidocs
   <li> In the interactive documentation, locate the /stories/ endpoint.    </li>
   <li> You will see a "Try it out" button. Click on it. </li>
   <li> Enter a prompt in the request body. It should be a JSON object with a key named prompt. For example: </li>
